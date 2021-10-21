@@ -1,6 +1,6 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+numpy==1.19.3
+paddleseg==2.0.0
+tqdm==4.56.0
+~addlepaddle_gpu==2.0.0.post110
+paddle==1.0.2
+Pillow==8.4.0
